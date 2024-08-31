@@ -1,16 +1,16 @@
 {
   "private": false,
   "displayName": "TTLock Platform HHHHHHHHH",
-  "name": "homebridge-ttlock HHHHHHHHH",
+  "name": "homebridge-ttlock-HHHHHHHHH",
   "version": "1.1.0",
   "description": "Use locks with TTLock platform on Homebridge. HHHHHHHHH",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bwitting/homebridge-ttlock"
+    "url": "https://github.com/xuanthanhtn96/homebridge-ttlock-HHHHHHHHH"
   },
   "bugs": {
-    "url": "https://github.com/bwitting/homebridge-ttlock/issues"
+    "url": "https://github.com/xuanthanhtn96/homebridge-ttlock-HHHHHHHHH"
   },
   "engines": {
     "node": ">=14.18.1",
